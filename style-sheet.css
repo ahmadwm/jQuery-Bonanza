@@ -1,0 +1,33 @@
+body{
+    font-size: 17px;
+    font-family: arial;
+    background: #f4f4f4;
+    line-height: 1.5em;
+}
+header{
+            background-color:#336;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 4px #000 solid;
+            margin-bottom: 10px;
+        }
+#container{
+    width:90%;
+    margin:auto;
+    padding:10px;
+    text-align: center;
+}
+.btn{
+            background-color: lightblue;
+        }
+#btnFadeOut{
+    background-color: black;
+    color: white;
+    padding: 4px;
+    width: 10%;
+}
+#box{
+    background-color: rgb(83, 82, 82);
+    color: white;
+    padding: 20px;
+}
